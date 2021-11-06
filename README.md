@@ -45,3 +45,5 @@ You should review each table in the Object Browser and/or examine the
 SQL script to make sure that you understand the field definitions, constraints,
 primary key(s), foreign key(s), and relationships. A logical relational schema
 for the data is displayed below
+
+![](image/README/1636163441107.png)
